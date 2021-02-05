@@ -223,7 +223,7 @@ Berisi API tentang Data Indonesia.
 
 ## Kontak
 
-Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
+Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [@yuk Consulting](https://www.facebook.com/satriad1st) ya! ATAU berkomentar via fitur [Issues](https://github.com/satriad1st/rest-api-indonesia) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
 
 Hatur Nuhun. :)
 
