@@ -190,9 +190,9 @@ This file is translation from Original (Bahasa Indonesia).
 
 ## Contact
 
-Feel free to ask me in Facebook, message to [Fariz Ramadhan](https://www.facebook.com/farizdotid). You can submit [issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) for any comment for this repository.
+Feel free to ask me in Facebook, message to [@yuk Consulting](https://www.facebook.com/ayuk). You can submit [issues](https://github.com/satriad1st/rest-api-indonesia/issues) for any comment for this repository.
 
-Thank You (Hatur Nuhun - in Sundanese). 
+Thank You Kiyay. 
 
 ## License
 
